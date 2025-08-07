@@ -163,9 +163,3 @@ Certification will directly enable Spark to qualify for higher-value CM contract
 > Spark Robotic builds the machines that make tomorrow work. While others prompt AI, we build the physical layer that it runs on.
 ```
 
-
-* A `.md` file download
-* A GitHub repo scaffold with this as the default `README.md`
-* A slide deck or internal strategy doc version
-
-DONE.
